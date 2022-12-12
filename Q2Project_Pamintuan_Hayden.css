@@ -1,0 +1,35 @@
+img {
+height: 300px;
+border-radius: 33.33%;
+padding: 20px;
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+	border-style: hidden;
+	border-width: 1px;
+	background-color: white
+}
+
+h1,th {
+	background-color: #dd1438;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px white;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+body {
+	background-color: #e6e6e6;
+}
+
+td {
+	text-shadow: 1px 1px #24ace9;
+}
+
+h3 {
+	color: #9c0b2b;
+}
